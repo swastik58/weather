@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+.container form
+{
+    margin-top: 3rem;
+}
+
+form input[name="city"], form input[name="country"]
+{
+    background-color: transparent;
+    color: white;
+    border-bottom: 2px solid whitesmoke;
+    border-radius: 0;
+    border: 0;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Indie Flower', cursive;
+}
+
+
+form input .container::-webkit-input-placeholder
+{
+    color: white !important;
+    font-family: 'Indie Flower', cursive;
+}
+
+form {
+    margin-top: 3rem;
+  }
+  
+  form input[name="city"],
+  form input[name="country"]
+  {
+    background-color: transparent;
+    color: white;
+    border: none;
+    border-bottom: 2px solid whitesmoke;
+    border-radius: 0;
+    font-family: 'Indie Flower', cursive;
+  }
+
+.row
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 2%;
+}
+
+.col-md-4
+{
+    padding-top: 10%;
+}
