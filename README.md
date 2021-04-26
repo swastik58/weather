@@ -5,11 +5,11 @@
 - The weather of the previous location will be showed in case of the above error if the user has entered any place before.
 - The temperature in shown in Celsius scale.
 - The music is given for calming effect only.
-- The app is deployed using HEROKU.
+- The app is deployed using NETLIFY.
 
-HEROKU : https://www.netlify.com/
+NETLIFY : https://www.netlify.com/
 
-LINK TO THE APP : 
+LINK TO THE APP : https://react-weather123.netlify.app/
 
 ## BUILD USING :
 - REACT API
